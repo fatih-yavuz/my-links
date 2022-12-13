@@ -1,0 +1,81 @@
+
+.ld-custom-name {
+    margin: 0;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.ld-custom-name:visited {
+    color: black;
+}
+
+
+.ld-custom-button-container {
+    position: relative;
+    height: auto;
+    border-radius: 14px;
+    z-index: 0;
+    overflow: hidden;
+    margin-bottom: 16px;
+    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+    -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+    transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+    transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    border: none;
+    background-color: #2665d6;
+    color: #fff;
+    -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
+    -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
+    transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
+}
+
+.ld-custom-button-container:hover {
+    -webkit-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    transform: scale(1.02);
+}
+
+.ld-custom-button {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    white-space: normal;
+    background: none;
+    color: inherit;
+    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-left: 66px;
+    padding-right: 66px;
+    min-height: 56px;
+}
+
+.ld-custom-background-layer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #fff;
+}
+
