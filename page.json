@@ -1,0 +1,57 @@
+{
+  "name": "Fatih Yavuz",
+  "description": "Maker @links.dev & Software Engineer @Spotify",
+  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/fyvz",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/fatih-yavuz",
+      "icon": "github"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/fthdev",
+      "icon": "twitter"
+    },
+    {
+      "title": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/fthdev",
+      "icon": "mug"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://instagram.com/pusuknane",
+      "icon": "instagram"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@4digit",
+      "icon": "medium"
+    },
+    {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCUyBqCbNymbHb0mtZ64Mx1A",
+      "icon": "youtube"
+    },
+    {
+      "title": "Side Project",
+      "url": "https://links.dev",
+      "icon": "link"
+    },
+    {
+      "title": "LeetCode",
+      "url": "https://leetcode.com/maninthemiddle/",
+      "icon": "click"
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/31nu4miwiawhfzkfm4jxltqvtlyu",
+      "icon": "spotify"
+    }
+  ]
+}
