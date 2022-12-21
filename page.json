@@ -22,6 +22,21 @@
       "title": "Instagram",
       "url": "https://instagram.com/pusuknane",
       "icon": "instagram"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@4digit",
+      "icon": "medium"
+    },
+    {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCUyBqCbNymbHb0mtZ64Mx1A",
+      "icon": "youtube"
+    },
+    {
+      "title": "Side Project",
+      "url": "https://links.dev",
+      "icon": "click"
     }
   ]
 }
