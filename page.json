@@ -1,42 +1,32 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Mehmet Akif Tütüncü",
+  "description": "Senior Software Engineer @ iO",
+  "image_url": "https://gravatar.com/avatar/7874b1a2b3af81d12643f8b6d9c828f5?s=540",
   "links": [
     {
+      "title": "Web Site",
+      "url": "https://akif.dev",
+      "icon": "click"
+    },
+    {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://linkedin.com/in/makiftutuncu",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/makiftutuncu",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/makiftutuncu",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/makiftutuncu",
       "icon": "instagram"
-    },
-    {
-      "title": "Medium",
-      "url": "https://medium.com/@4digit",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "https://www.youtube.com/channel/UCUyBqCbNymbHb0mtZ64Mx1A",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "https://links.dev",
-      "icon": "click"
     }
   ]
 }
