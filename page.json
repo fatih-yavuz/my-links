@@ -1,56 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Melih Safa Çelik",
+  "description": "Backend Developer @PoiLabs",
+  "image_url": "https://media.licdn.com/dms/image/C4D03AQEya6JijHLiRw/profile-displayphoto-shrink_200_200/0/1629213708821?e=1677715200&v=beta&t=SH4KE7389YzPmqVdLg8rzWAyONYef0-FWyfy5nombD0",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/melihsafacelik/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/MelihCelik00",
       "icon": "github"
     },
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/melihscelik23",
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "https://open.spotify.com/user/11184457630?si=ece7932cfdc44af3",
       "icon": "spotify"
     }
   ]
