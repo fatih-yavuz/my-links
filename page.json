@@ -5,53 +5,38 @@
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/oktayyoruk/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/oktayyoruk",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/yalnizcaoktay",
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
-      "icon": "mug"
+      "title": "Reddit",
+      "url": "https://www.reddit.com/user/oktayyoruk",
+      "icon": "reddit"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://www.instagram.com/etkiliadam/",
       "icon": "instagram"
     },
     {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "https://medium.com/@oktayyoruk",
       "icon": "medium"
     },
     {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
+      "title": "Notion",
+      "url": "https://www.notion.so/oktayyoruk",
+      "icon": "notion"
     }
   ]
 }
