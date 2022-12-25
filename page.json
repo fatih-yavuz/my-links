@@ -5,53 +5,23 @@
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/mehmet-ergenc/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/mergencdev",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/mergencdev",
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
-      "icon": "mug"
-    },
-    {
-      "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
-      "icon": "instagram"
-    },
-    {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "https://medium.com/@mergenc",
       "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
     }
   ]
 }
