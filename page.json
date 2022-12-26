@@ -1,57 +1,22 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Muhammet Balamir",
+  "description": "Software Developer @SabancıDx",
+  "image_url": "https://i.ibb.co/Ptb4NvQ/profile-picture.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://bit.ly/3vgc5Ge",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "http://bit.ly/3Wtf8ac",
       "icon": "github"
     },
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
-      "icon": "mug"
-    },
-    {
-      "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
-      "icon": "instagram"
-    },
-    {
       "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "url": "https://bit.ly/3juk403",
       "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
     }
   ]
 }
