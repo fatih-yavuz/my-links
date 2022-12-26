@@ -1,10 +1,14 @@
 
 .ld-custom-name {
-    color: black;
+    color: white;
 }
 
 .ld-custom-name:visited {
-    color: black;
+    color: white;
+}
+
+.ld-background-base {
+    background-color: black;
 }
 
 .ld-custom-button-container {
@@ -38,4 +42,36 @@
 
 .ld-custom-background-layer {
     background-color: #fff;
+}
+
+.ld-profile-image {
+    animation-name: fadeLeft, shadows;
+    animation-timing-function: ease-out;
+    animation-duration: 200ms, 2000ms;
+    animation-delay: 200ms;
+    animation-iteration-count: 1, infinite;
+    animation-fill-mode: backwards;
+}
+
+@keyframes shadows {
+    0% {
+        box-shadow: 0px 0px 0px 0px #ccc;
+    }
+    50% {
+        box-shadow: 0px 0px 10px 0px #ccc;
+    }
+    100% {
+        box-shadow: 0px 0px 0px 0px #ccc;
+    }
+}
+
+@keyframes fadeLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0px);
+    }
 }
