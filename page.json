@@ -10,27 +10,32 @@
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3jy6nNG",
+      "url": "https://bit.ly/3jy6nNG",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3vdWgQD",
+      "url": "https://bit.ly/3vdWgQD",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "http://bit.ly/3hN1X51",
+      "url": "https://bit.ly/3hN1X51",
       "icon": "instagram"
     },
     {
       "title": "Medium",
-      "url": "http://bit.ly/3WHbDN1",
+      "url": "https://bit.ly/3WHbDN1",
+      "icon": "medium"
+    },
+    {
+      "title": "Medium",
+      "url": "https://bit.ly/3HYHODD",
       "icon": "medium"
     },
     {
       "title": "Spotify",
-      "url": "http://bit.ly/3vi35AI",
+      "url": "https://bit.ly/3vi35AI",
       "icon": "spotify"
     }
   ]
