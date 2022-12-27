@@ -14,6 +14,11 @@
       "icon": "github"
     },
     {
+      "title": "GitLab",
+      "url": "http://bit.ly/3Cejhqr",
+      "icon": "gitlab"
+    },
+    {
       "title": "Twitter",
       "url": "http://bit.ly/3YJe7wf",
       "icon": "twitter"
@@ -29,19 +34,14 @@
       "icon": "instagram"
     },
     {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
+      "title": "Blog",
+      "url": "https://blog.links.dev",
       "icon": "medium"
     },
     {
       "title": "Youtube",
       "url": "http://bit.ly/3Gek9h3",
       "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
     },
     {
       "title": "LeetCode",
@@ -52,6 +52,16 @@
       "title": "Spotify",
       "url": "http://bit.ly/3BZcxfT",
       "icon": "spotify"
+    },
+    {
+      "title": "Reddit",
+      "url": "http://bit.ly/3jx6jgU",
+      "icon": "reddit"
+    },
+    {
+      "title": "Facebook",
+      "url": "http://bit.ly/3vvK8ue",
+      "icon": "facebook"
     }
   ]
 }
