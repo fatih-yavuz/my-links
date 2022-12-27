@@ -27,6 +27,11 @@
       "title": "Website",
       "url": "https://mohanshetty.com",
       "icon": "link"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/mohanshetty",
+      "icon": "github"
     }
   ]
 }
