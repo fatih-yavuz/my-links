@@ -15,18 +15,8 @@
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/mohanshetty2019",
       "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
-      "icon": "mug"
-    },
-    {
-      "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
-      "icon": "instagram"
     },
     {
       "title": "Medium",
@@ -34,24 +24,9 @@
       "icon": "medium"
     },
     {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
+      "title": "Website",
+      "url": "https://mohanshetty.com",
       "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
     }
   ]
 }
