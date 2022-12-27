@@ -4,11 +4,6 @@
   "image_url": "https://raw.githubusercontent.com/mohanshetty/my-links/main/profile-picture.jpg",
   "links": [
     {
-      "title": "YouTube",
-      "url": "https://www.youtube.com/@CodeWithHarry",
-      "icon": "youtube"
-    },
-    {
       "title": "Instagram",
       "url": "https://www.instagram.com/mohan_shetty_2019/",
       "icon": "instagram"
@@ -32,6 +27,11 @@
       "title": "GitHub",
       "url": "https://github.com/mohanshetty",
       "icon": "github"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@CodeWithHarry",
+      "icon": "youtube"
     }
   ]
 }
