@@ -1,8 +1,12 @@
 # my-links
 
-Welcome to `my-links` for `links.dev`, a repo for individuals to customize their page on links.dev
+## Do not open a PR or an issue! Instead fork this or create your own `my-links` repo. 
+This is my personal `my-links` repo. You need your own.
 
-To use this repo, follow these steps:
+## Welcome to `my-links`
+a repo for individuals to customize their page on links.dev
+
+### To use this repo, follow these steps
 
 - Fork this repo to your own GitHub account.
 
