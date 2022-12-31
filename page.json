@@ -1,8 +1,12 @@
 {
   "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
+  "description": "Backend Engineer @Spotify",
   "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
   "links": [
+    {
+      "title": "Instagram",
+      "url": "bit.ly/3LaBWc2"
+    },
     {
       "title": "Twitter",
       "url": "http://bit.ly/3CCjbJk",
