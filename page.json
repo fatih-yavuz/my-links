@@ -1,8 +1,13 @@
 {
   "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
+  "description": "Software Engineer @Spotify",
   "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
   "links": [
+    {
+      "title": "Twitter",
+      "url": "http://bit.ly/3CCjbJk",
+      "icon": "twitter"
+    },
     {
       "title": "LinkedIn",
       "url": "http://bit.ly/3GfuFF1",
@@ -17,46 +22,6 @@
       "title": "GitLab",
       "url": "http://bit.ly/3Cejhqr",
       "icon": "gitlab"
-    },
-    {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
-      "icon": "mug"
-    },
-    {
-      "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
-      "icon": "instagram"
-    },
-    {
-      "title": "Blog",
-      "url": "https://blog.links.dev",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
-    },
-    {
-      "title": "Reddit",
-      "url": "http://bit.ly/3jx6jgU",
-      "icon": "reddit"
     }
   ]
 }
