@@ -1,62 +1,32 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Mohit Jaisal",
+  "description": "Software Engineer",
+  "image_url": "https://avatars.githubusercontent.com/u/23385605?v=4",
   "links": [
     {
-      "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
-      "icon": "linkedin"
+      "title": "Portfolio",
+      "url": "https://mohitjaisal.com",
+      "icon": "globe"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/mohitjaisal",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/mohitjaisal",
+      "icon": "linkedin"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
+      "url": "https://twitter.com/mohitjaisal",
       "icon": "twitter"
     },
     {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
-      "icon": "mug"
-    },
-    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://instagram.com/mohitjaisal",
       "icon": "instagram"
-    },
-    {
-      "title": "Blog",
-      "url": "https://blog.links.dev",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
-    },
-    {
-      "title": "Reddit",
-      "url": "http://bit.ly/3jx6jgU",
-      "icon": "reddit"
     }
   ]
 }
