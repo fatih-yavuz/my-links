@@ -1,6 +1,6 @@
 {
   "name": "Jesús Montalvo Olazabal",
-  "description": "@UNMSM Mathematician | GeneXus Trainee Analyst at @VALTX | Data Scientist in progress",
+  "description": "@UNMSM Mathematician | Flutter Trainee Developer at @VALTX | Data Scientist in progress",
   "image_url": "https://yt3.ggpht.com/pHBwgKSF-rCbgzuFJCZAV7EiyzDAdqqLSAH_upz4KQpkKro_FZlc8RhS6Qy5alyB7dkxYnpq=s600-c-k-c0x00ffffff-no-rj-rp-mo",
   "links": [
     {
@@ -14,11 +14,6 @@
       "icon": "github"
     },
     {
-      "title": "Youtube",
-      "url": "https://www.youtube.com/channel/UCI9trK7uvOBjJNd2k2wY60Q",
-      "icon": "youtube"
-    },
-    {
       "title": "Kaggle",
       "url": "https://www.kaggle.com/fernandomontalvo",
       "icon": "kaggle"
@@ -27,6 +22,11 @@
       "title": "LeetCode",
       "url": "https://leetcode.com/jesus_montalvo_olazabal/",
       "icon": "leetcode"      
+    },
+    {
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCI9trK7uvOBjJNd2k2wY60Q",
+      "icon": "youtube"
     }
   ]
 }
