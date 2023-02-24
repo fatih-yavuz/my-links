@@ -1,27 +1,22 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Jesús Montalvo Olazabal",
+  "description": "@UNMSM Mathematician",
+  "image_url": "https://yt3.ggpht.com/pHBwgKSF-rCbgzuFJCZAV7EiyzDAdqqLSAH_upz4KQpkKro_FZlc8RhS6Qy5alyB7dkxYnpq=s600-c-k-c0x00ffffff-no-rj-rp-mo",
   "links": [
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
-      "icon": "twitter"
-    },
-    {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/jesus-fernando-montalvo-olazabal/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/JesusFernando",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCI9trK7uvOBjJNd2k2wY60Q",
+      "icon": "youtube"
     }
   ]
 }
