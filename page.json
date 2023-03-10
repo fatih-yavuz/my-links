@@ -1,27 +1,23 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Atakan Emre",
+  "description": "Ex. Architect | 
+  Computer Engineer Student | iOS Developer",
+  "image_url": "https://pbs.twimg.com/profile_images/1633166259687661570/PTjT8-CN_400x400.jpg",
   "links": [
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "https://twitter.com/dev_atakan",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/atakan-emre/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/Atakan-Emre",
       "icon": "github"
-    },
-    {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
     }
   ]
 }
