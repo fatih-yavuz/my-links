@@ -9,6 +9,11 @@
       "icon": "twitter"
     },
     {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/atakann.emre/",
+      "icon": "instagram"
+    },
+    {
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/in/atakan-emre/",
       "icon": "linkedin"
@@ -17,6 +22,11 @@
       "title": "GitHub",
       "url": "https://github.com/Atakan-Emre",
       "icon": "github"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@AtakanEmre",
+      "icon": "medium"
     }
   ]
 }
