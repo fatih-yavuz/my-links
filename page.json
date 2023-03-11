@@ -5,7 +5,8 @@
   "links": [
     {
       "title": "Instagram",
-      "url": "bit.ly/3LaBWc2"
+      "url": "https://bit.ly/3LaBWc2",
+      "icon": "instagram"
     },
     {
       "title": "Twitter",
