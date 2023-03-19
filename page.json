@@ -27,6 +27,11 @@
       "title": "Medium",
       "url": "https://medium.com/@AtakanEmre",
       "icon": "medium"
+    },
+    {
+      "title": "Online CV",
+      "url": "https://atakan-emre.github.io/cv/",
+      "icon": "link-02"
     }
   ]
 }
