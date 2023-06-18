@@ -1,4 +1,4 @@
-# my-links
+# my-links for links.dev
 
 ## Do not open a PR or an issue! Instead fork this or create your own `my-links` repo. 
 This is my personal `my-links` repo. You need your own.
