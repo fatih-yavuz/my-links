@@ -1,32 +1,22 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Quitaxd",
+  "description": "Linux user, blogger...",
+  "image_url": "https://avatars.githubusercontent.com/u/108627333?v=4",
   "links": [
     {
-      "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
-      "icon": "instagram"
-    },
-    {
-      "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
-      "icon": "twitter"
-    },
-    {
-      "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
-      "icon": "linkedin"
+      "title": "RSS",
+      "url": "https://quitaxd.github.io/blog/index.xml",
+      "icon": "rss"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/Quitaxd",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "YouTube",
+      "url": "https://youtube.com/@Quitaxd",
+      "icon": "youtube"
     }
   ]
 }
