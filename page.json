@@ -1,32 +1,37 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Metehan Günen",
+  "description": "a Computer Engineering student",
+  "image_url": "https://media.licdn.com/dms/image/D4D03AQHnd1t6CvRr7g/profile-displayphoto-shrink_200_200/0/1694723713907?e=1701907200&v=beta&t=e5JMFhRmN_uArGnMbhIIuLPn3ZQhGGVEyEVT8p-fO2k",
   "links": [
     {
       "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
+      "url": "https://bit.ly/45gR6CW",
       "icon": "instagram"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "http://bit.ly/46i15ZS",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "http://bit.ly/lnkdmg",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "http://bit.ly/46yi4qE",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "YouTube",
+      "url": "http://bit.ly/3LMPhGQ",
+      "icon": "youtube"
+    },
+    {
+      "title": "Buy me a coffee",
+      "url": "http://bit.ly/3PG0Gtb",
+      "icon": "mug"
     }
   ]
 }
