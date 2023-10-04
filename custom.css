@@ -17,7 +17,7 @@
     -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    background-color: #2665d6;
+    background-color: #2bc1db;
     color: #fff;
 }
 
@@ -37,5 +37,5 @@
 }
 
 .ld-custom-background-layer {
-    background-color: #fff;
+    background-color: #c4c4c4;
 }
